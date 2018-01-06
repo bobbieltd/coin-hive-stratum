@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cazala/coin-hive-stratum.git"
+    "url": "git+https://github.com/bobbieltd/coin-hive-stratum.git"
   },
   "keywords": ["coinhive", "stratum", "proxy"],
   "author": "",
